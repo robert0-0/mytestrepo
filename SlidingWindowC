@@ -1,6 +1,6 @@
 
 
-// Attempting to implement a sliding window algorithm in C
+// Attempting to implement a sliding window algorithm in C++
 // Sliding window = used to solve problems that involve linear sequences (ex: arrays)
 // window is "slid" over the array, operation are performed on elements within window, then window slides
 
